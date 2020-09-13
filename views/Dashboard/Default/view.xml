@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
-	<name>Dashboard</name>
-	<description>Dashboard View</description>
+	<name>Default</name>
+	<description>Dashboard Default View</description>
 	<version>0.0.1</version>
 	<repo>https://github.com/h-w-f/dashboard-default</repo>
 	<dependencies>
