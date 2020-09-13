@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<application>
+<view>
 	<name>Default</name>
 	<description>Dashboard Default View</description>
 	<version>0.0.1</version>
@@ -57,4 +57,4 @@
 			<src></src>
 		</script>
 	</footer>
-</application>
+</view>
