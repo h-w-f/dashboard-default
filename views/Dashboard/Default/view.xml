@@ -15,10 +15,7 @@
 			<name>Dashboard</name>
 			<settings>
 				<cache>false</cache>
-				<layout>
-					<file>/layout/view.html</file>
-					<is_default>true</is_default>
-				</layout>
+				<layout>/layout/view.html</layout>
 				<head>
 					<title>Dashboard - </title>
 					<meta>
