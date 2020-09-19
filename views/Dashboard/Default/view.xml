@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <view>
 	<name>Default</name>
+	<displayname>Dashboard Application View (Default)</displayname>
 	<description>Dashboard Default View</description>
 	<version>0.0.1</version>
 	<repo>https://github.com/h-w-f/view-dasboard-default</repo>
