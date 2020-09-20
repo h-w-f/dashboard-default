@@ -29,6 +29,10 @@
 				<name>author</name>
 				<content>Guru</content>
 			</meta>
+			<meta>
+				<name>keywords</name>
+				<content>HTML, CSS, JavaScript</content>
+			</meta>
 			<link>
 				<href>/views/Dashboard/Default/css/bootstrap.min.css</href>
 			</link>
