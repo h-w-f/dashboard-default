@@ -4,12 +4,12 @@
 	<displayname>Dashboard Application View (Default)</displayname>
 	<description>Dashboard Default View</description>
 	<version>0.0.1</version>
-	<repo>https://github.com/h-w-f/view-dasboard-default</repo>
+	<repo>https://github.com/h-w-f/view-dashboard-default</repo>
 	<dependencies>
 		<application>
 			<name>Dashboard</name>
 			<version>0.0.1</version>
-			<repo>https://github.com/h-w-f/application-dasboard</repo>
+			<repo>https://github.com/h-w-f/application-dashboard</repo>
 		</application>
 	</dependencies>
 	<settings>
