@@ -45,12 +45,18 @@
 		</head>
 		<body>
 			<params>id="body" class="body"</params>
+			<jsscript>
+				<script type="text/javascript"></script>
+			</jsscript>
 		</body>
 		<footer>
 			<params>class="footer"</params>
 			<script>
 				<src></src>
 			</script>
+			<jsscript>
+				<script type="text/javascript"></script>
+			</jsscript>
 		</footer>
 	</settings>
 </view>
