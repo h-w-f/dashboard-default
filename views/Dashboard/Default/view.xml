@@ -46,7 +46,11 @@
 		<body>
 			<params>id="body" class="body"</params>
 			<jsscript>
-				<script type="text/javascript"></script>
+				<![CDATA[
+					<script type="text/javascript">
+						var x = 10;
+					</script>
+				]]>
 			</jsscript>
 		</body>
 		<footer>
@@ -55,7 +59,11 @@
 				<src></src>
 			</script>
 			<jsscript>
-				<script type="text/javascript"></script>
+				<![CDATA[
+					<script type="text/javascript">
+						console.log(x);
+					</script>
+				]]>
 			</jsscript>
 		</footer>
 	</settings>
