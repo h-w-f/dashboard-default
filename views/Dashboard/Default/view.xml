@@ -3,7 +3,7 @@
 	<name>Default</name>
 	<displayname>Dashboard Application View (Dashboard)</displayname>
 	<description>Dashboard Default View</description>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<repo>https://github.com/h-w-f/view-dashboard-default</repo>
 	<dependencies>
 		<application>
