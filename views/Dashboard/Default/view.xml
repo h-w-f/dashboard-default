@@ -55,9 +55,7 @@
 		</body>
 		<footer>
 			<params>class="footer"</params>
-			<script>
-				<src></src>
-			</script>
+			<script></script>
 			<jsscript>
 				<![CDATA[
 					<script type="text/javascript">
