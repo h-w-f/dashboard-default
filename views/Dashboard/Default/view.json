@@ -2,7 +2,7 @@
 	"name"			: "Default",
 	"displayName" 	: "Dashboard Application View (Default)",
 	"description" 	: "Default Dashboard View",
-	"version"		: "0.0.1",
+	"version"		: "0.0.2",
 	"repo"			: "https://github.com/h-w-f/view-dashboard-default",
 	"dependencies"	: {
 		"core"			: {
