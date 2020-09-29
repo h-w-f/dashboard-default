@@ -6,27 +6,19 @@
 	"repo"			: "https://github.com/h-w-f/view-dashboard-default",
 	"dependencies"	: {
 		"core"			: {
-			"Core" : {
-				"name"		: "Core",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/core"
-			}
+			"name"		: "Core",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/core"
 		},
 		"application"  : {
-			"Dashboard" : {
-				"name"		: "Dashboard",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/application-dashboard"
-			}
+			"name"		: "Dashboard",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/application-dashboard"
 		},
-		"components"	: {
-		},
-		"packages"		: {
-		},
-		"middlewares"	: {
-		},
-		"views"			: {
-		}
+		"components"	: [],
+		"packages"		: [],
+		"middlewares"	: [],
+		"views"			: []
 	},
 	"settings"		: {
 		"cache" 	: false,
